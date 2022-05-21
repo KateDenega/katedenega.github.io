@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 22:25:56 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,11 +13,83 @@
     </image>
     
     <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <title>Documentation</title>
+      <link>https://example.com/post/documentation/</link>
+      <pubDate>Sat, 21 May 2022 22:25:56 +0300</pubDate>
+      <guid>https://example.com/post/documentation/</guid>
+      <description>&lt;h2 id=&#34;try-it&#34;&gt;Try it!&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Open Word.&lt;/li&gt;
+&lt;li&gt;Select Blank document.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;or-if-word-is-already-open-select-file--new--blank-document&#34;&gt;Or, if Word is already open, select File &amp;gt; New &amp;gt; Blank document.&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Open Word. Or, if Word is already open, select File &amp;gt; New.&lt;/li&gt;
+&lt;li&gt;Double-click a template to open it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;search-for-a-template&#34;&gt;Search for a template&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Open Word. Or, if Word is already open, select File &amp;gt; New.&lt;/li&gt;
+&lt;li&gt;In the Search for online templates box, enter a search word like letter, resume, or invoice.&lt;/li&gt;
+&lt;li&gt;Or, select a category under the search box like Business, Personal, or Education.&lt;/li&gt;
+&lt;li&gt;Click a template to see a preview.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;select-create&#34;&gt;Select Create.&lt;/h5&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 09-05-15.05</title>
+      <link>https://example.com/post/091505/</link>
+      <pubDate>Sat, 21 May 2022 22:16:31 +0300</pubDate>
+      <guid>https://example.com/post/091505/</guid>
+      <description>&lt;h1 id=&#34;news&#34;&gt;News&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;studied&lt;/li&gt;
+&lt;li&gt;creat a new project&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://example.com/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+      <description>&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
+&lt;p&gt;projects: []&lt;/p&gt;
+&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
+&lt;p&gt;date: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
+&lt;p&gt;lastmod: &amp;lsquo;2020-12-13T00:00:00Z&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
+&lt;p&gt;featured: false&lt;/p&gt;
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
+&lt;p&gt;image:
+caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://unsplash.com/photos/CpkOjOcXdUY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unsplash&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
+focal_point: &amp;rsquo;&#39;
+placement: 2
+preview_only: false&lt;/p&gt;
+&lt;p&gt;authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin&lt;/li&gt;
+&lt;li&gt;吳恩達&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Academic&lt;/li&gt;
+&lt;li&gt;开源&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Demo&lt;/li&gt;
+&lt;li&gt;教程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
 &lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
@@ -45,23 +117,6 @@
   &lt;/div&gt;&lt;figcaption&gt;
       The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
-&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
